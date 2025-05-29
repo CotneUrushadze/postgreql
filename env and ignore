@@ -1,12 +1,12 @@
-DEBUG = True
-SECRET_KEY = 'yoursecuresecratkey'
+DEBUG=True
+SECRET_KEY='yoursecuresecratkey'
 
-EMAIL_HOST_USER = 'cotneishot@gmail.com'
-EMAIL_HOST_PASSWORD = 'mhmn yqxn vxap ynvb' 
+EMAIL_HOST_USER='cotneishot@gmail.com'
+EMAIL_HOST_PASSWORD='mhmn yqxn vxap ynvb' 
 
-POSTGRES_DB = 'yourdb'
-POSTGRES_USER = 'youruser'
-POSTGRES_PASSWORD = 'yourpassword'
+POSTGRES_DB='yourdb'
+POSTGRES_USER='youruser'
+POSTGRES_PASSWORD='yourpassword'
 
 
 
@@ -19,6 +19,7 @@ POSTGRES_PASSWORD = 'yourpassword'
 db.sqlite3
 
 .env
+env
 
 .git
 .gitignore
